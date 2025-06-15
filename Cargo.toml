@@ -2,6 +2,13 @@
 name = "hnt"
 version = "0.1.0"
 edition = "2024"
+description = "A hacker news reader in terminal"
+license = "GPL3.0"
+homepage = "https://github.com/BrokenC1oud/hnt"
+repository = "https://github.com/BrokenC1oud/hnt.git"
+readme = "README.MD"
+keywords = ["Terminal", "Hacker News"]
+categories = ["web-programming::http-client", "gui"]
 
 [dependencies]
 firebase-rs = "2.2.1"
