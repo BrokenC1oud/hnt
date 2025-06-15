@@ -9,3 +9,9 @@ cargo run
 ```
 
 Use arrow keys to navigate.
+
+## Todo
+
+- [ ] Add thread-tree
+- [ ] Add tabs
+- [ ] Add wrap-around
