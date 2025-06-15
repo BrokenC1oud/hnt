@@ -7,7 +7,7 @@ license = "GPL-3.0-or-later"
 homepage = "https://github.com/BrokenC1oud/hnt"
 repository = "https://github.com/BrokenC1oud/hnt.git"
 readme = "README.MD"
-keywords = ["Terminal", "Hacker News"]
+keywords = ["Terminal", "HackerNews"]
 categories = ["web-programming::http-client", "gui"]
 
 [dependencies]
